@@ -159,7 +159,12 @@ namespace Atlyginimo_skaičiuoklė_2019
                         VSD = Bruto * 0.0177;
                         VSD = Math.Round(VSD, 2);
                         VSDtextBox2.Text = VSD.ToString();
-
+                        
+                        //Darbdavio išlaidos
+                        Islaidos = Bruto + VSD;
+                        Islaidos = Math.Round(Islaidos, 2);
+                        IslaidostextBox2.Text = Islaidos.ToString();
+                        
                         //II-pakopos pensijai kaupti
                         if (radioButton4.Checked == true)
                         {
@@ -174,10 +179,7 @@ namespace Atlyginimo_skaičiuoklė_2019
                         Pensija = Math.Round(Pensija, 2);
                         PensijatextBox2.Text = Pensija.ToString();
 
-                        //Darbdavio išlaidos
-                        Islaidos = Bruto + VSD;
-                        Islaidos = Math.Round(Islaidos, 2);
-                        IslaidostextBox2.Text = Islaidos.ToString();
+                        
                     }
                 }
             }
