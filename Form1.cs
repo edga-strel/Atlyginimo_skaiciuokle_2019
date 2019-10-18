@@ -158,7 +158,7 @@ namespace Atlyginimo_skaičiuoklė_2019
                         //"Sodros" įmoka (VSD) 1,77%	
                         VSD = Bruto * 0.0177;
                         VSD = Math.Round(VSD, 2);
-                        VSDtextBox2.Text = SOC.ToString();
+                        VSDtextBox2.Text = VSD.ToString();
 
                         //II-pakopos pensijai kaupti
                         if (radioButton4.Checked == true)
@@ -177,7 +177,7 @@ namespace Atlyginimo_skaičiuoklė_2019
                         //Darbdavio išlaidos
                         Islaidos = Bruto + VSD;
                         Islaidos = Math.Round(Islaidos, 2);
-                        IslaidostextBox2.Text = SOC.ToString();
+                        IslaidostextBox2.Text = Islaidos.ToString();
                     }
                 }
             }
