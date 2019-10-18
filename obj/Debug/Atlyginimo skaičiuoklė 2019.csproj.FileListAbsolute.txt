@@ -1,0 +1,9 @@
+C:\Users\Edgaras\source\repos\Atlyginimo skaičiuoklė 2019\obj\Debug\Atlyginimo skaičiuoklė 2019.csprojAssemblyReference.cache
+C:\Users\Edgaras\source\repos\Atlyginimo skaičiuoklė 2019\obj\Debug\Atlyginimo_skaičiuoklė_2019.Form1.resources
+C:\Users\Edgaras\source\repos\Atlyginimo skaičiuoklė 2019\obj\Debug\Atlyginimo_skaičiuoklė_2019.Properties.Resources.resources
+C:\Users\Edgaras\source\repos\Atlyginimo skaičiuoklė 2019\obj\Debug\Atlyginimo skaičiuoklė 2019.csproj.GenerateResource.cache
+C:\Users\Edgaras\source\repos\Atlyginimo skaičiuoklė 2019\bin\Debug\Atlyginimo skaičiuoklė 2019.exe.config
+C:\Users\Edgaras\source\repos\Atlyginimo skaičiuoklė 2019\bin\Debug\Atlyginimo skaičiuoklė 2019.exe
+C:\Users\Edgaras\source\repos\Atlyginimo skaičiuoklė 2019\bin\Debug\Atlyginimo skaičiuoklė 2019.pdb
+C:\Users\Edgaras\source\repos\Atlyginimo skaičiuoklė 2019\obj\Debug\Atlyginimo skaičiuoklė 2019.exe
+C:\Users\Edgaras\source\repos\Atlyginimo skaičiuoklė 2019\obj\Debug\Atlyginimo skaičiuoklė 2019.pdb
