@@ -12,7 +12,7 @@ namespace Atlyginimo_skaičiuoklė_2019
 {
     public partial class Form1 : Form
     {
-        double Bruto, Neto, NPD, GPM, PSD, SOC, VSD, Pensija, Islaidos, Bruto2, GPM2;
+        double Bruto, Neto, NPD, GPM, PSD, SOC, VSD, Pensija, Islaidos;
 
         public Form1()
         {
